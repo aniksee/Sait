@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta name="Site" content="GirlsBattalion">
+<meta name="description" content="Project">
+<meta http-equiv="Content-Type" content="text/html"; charset=UTF-8">
+<title>BlackPink</title>
+<link rel="stylesheet"type="text/css" href="style.css">
+
+</head>
+<body>
+<div id="container">
+<div id="header"><img src="http://x-lines.ru/letters/i/cyrillicfancy/1194/8d85c7/30/0/4no7bcgoz8earegoz9em7wcy4gbpdbgoz5emzwfa4n9nbwra4n3pbcgozzem7wf14n9pbqjy4nepbxqosdeadwcn4napdyqozdemo.png"></div>
+<a href="index.html"><div id="menu">Главная</div></a>
+<a href="S/om.html"><div id="menu">Кино</div></a>
+<a href="S/md.html"><div id="menu">Книги</div></a>
+<a href="S/mr.html"><div id="menu">Музыка</div></a>
+<a href="S/obs.html"><div id="menu">Путешествия</div></a>
+<div id="content">
+<h4>Главная</h4>
+<h3>Добро пожаловать на сайт BlackPink!</h3>
+<table align="center">
+<tr>
+<td><p>Здесь вы можете найти что-нибудь, чтобы развлечться.</p>
+</td>
+</tr>
+<tr>
+<td align="center"><img src="IZ/1.gif" width="600px"></td></tr>
+</table>
+</div>
+</div>
+</body>
+</html>
