@@ -1,8 +1,7 @@
 body {
 font-size: 14pt;
 font-family: times;
-background: linear-gradient(to top,#d1d9ff,#ffffff);
-background-image: url("IZ/tk.jpg");
+background-image: url("IZ/1418958045_polosy-fon-cveta-oboi.jpg");
 }
 h2{
 color: #6764B1;
@@ -12,7 +11,7 @@ font-family: Comic Sans MS, cursive;
 }
 h3{
 font-size:26pt;
-color: #8172a8;
+color: #000;
 vertical-align: text-top;
 text-align:center;}
 h4{
@@ -39,7 +38,7 @@ background:transparent;
 {
 text-align: center;
 padding: 5px;
-background: linear-gradient(to top,#abaed9,#f1ebfa);
+background-color:rgba(255,255,255,0.4);
 border-radius: 10px 10px;
 font-size:26pt;
 }
@@ -47,21 +46,21 @@ font-size:26pt;
 {
 margin-top: 6px;
 margin-left: 1%;
-width:18%;
+width:15%;
 height:4%;
 padding:0;
 font-size:20pt;
 float:left;
 text-align: center;
-background: linear-gradient(to top,#d1d9ff,#ffffff);
-border:2px solid #7e85cf;
+background-color:rgba(255,255,255,0.4);
+border:2px solid rgba(255,255,255,0.4);
 border-radius: 10px 10px;
 }
 #content
 {
 margin-top:4%;
 padding:8px;
-background: linear-gradient(to top,#caceed,#e2dff5);
+background-color:rgba(255,255,255,0.4);
 min-height:82%;
 border:1px solid #7e85cf;
 border-radius: 10px 10px;
@@ -128,5 +127,5 @@ transform: scale(1.3, 1.3);
 transform: scale(1.2, 1.2);
 }
 .img5:hover{
-transform: scale(1.3, 1.3);
+transform: scale(1.8, 1.8);
 }
