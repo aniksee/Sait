@@ -1,0 +1,132 @@
+body {
+font-size: 14pt;
+font-family: times;
+background: linear-gradient(to top,#d1d9ff,#ffffff);
+background-image: url("IZ/tk.jpg");
+}
+h2{
+color: #6764B1;
+margin:10;
+vertical-align:center;
+font-family: Comic Sans MS, cursive;
+}
+h3{
+font-size:26pt;
+color: #8172a8;
+vertical-align: text-top;
+text-align:center;}
+h4{
+font-size:20pt;
+text-indent: 20px;
+color: #392378;
+vertical-align: text-top;
+text-align:left;
+}
+ul {list-style-type:circle;}
+#header a {
+display: block;
+text-decoration:none;
+color: #392378 ;
+}
+#container
+{
+width:75%;
+height: 99%;
+margin: 0 auto;
+background:transparent;
+}
+#header
+{
+text-align: center;
+padding: 5px;
+background: linear-gradient(to top,#abaed9,#f1ebfa);
+border-radius: 10px 10px;
+font-size:26pt;
+}
+#menu
+{
+margin-top: 6px;
+margin-left: 1%;
+width:18%;
+height:4%;
+padding:0;
+font-size:20pt;
+float:left;
+text-align: center;
+background: linear-gradient(to top,#d1d9ff,#ffffff);
+border:2px solid #7e85cf;
+border-radius: 10px 10px;
+}
+#content
+{
+margin-top:4%;
+padding:8px;
+background: linear-gradient(to top,#caceed,#e2dff5);
+min-height:82%;
+border:1px solid #7e85cf;
+border-radius: 10px 10px;
+}
+#footer
+{
+float:center;
+background:#bdb4f0;
+color:#FFF;
+padding:5px;
+text-align:center;
+clear:left;
+}
+.img1 {
+width:260px;
+border:0;
+float: left;
+margin: 20px 10px 20px 40px;
+}
+.img2 {
+width:400px;
+border:0;
+float: center;
+margin: 5px 3px 3px 0px;
+}
+.img3 {
+width:50px;
+border:0;
+float: center;
+margin: 5px 30px 3px 0px;
+border-radius: 10px 10px;
+}
+.img4 {
+width:200px;
+border:0;
+float: center;
+margin: 5px 30px 3px 0px;
+border-radius: 10px 10px;
+}
+.img5 {
+border:0;
+float: center;
+margin: 5px 30px 3px 0px;
+border-radius: 10px 10px;
+}
+p{
+font-size:24pt;
+margin-left: 20px;
+margin-right: 20px;
+text-indent: 20px;
+text-align: justify;
+vertical-align: text-top;
+}
+input , textarea{
+background:#e9dff2;
+}
+.img2:hover{
+transform: scale(1.7, 1.7);
+}
+.img3:hover{
+transform: scale(1.3, 1.3);
+}
+.img4:hover{
+transform: scale(1.2, 1.2);
+}
+.img5:hover{
+transform: scale(1.3, 1.3);
+}
