@@ -16,7 +16,7 @@ vertical-align: text-top;
 text-align:center;}
 h4{
 font-size:20pt;
-text-indent: 20px;
+text-indent: 20px
 color: #392378;
 vertical-align: text-top;
 text-align:left;
@@ -81,7 +81,7 @@ float: left;
 margin: 20px 10px 20px 40px;
 }
 .img2 {
-width:400px;
+width:200px;
 border:0;
 float: center;
 margin: 5px 3px 3px 0px;
